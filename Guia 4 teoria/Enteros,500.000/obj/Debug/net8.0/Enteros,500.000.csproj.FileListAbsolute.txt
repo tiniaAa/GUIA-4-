@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\bin\Debug\net8.0\Enteros,500.000.exe
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\bin\Debug\net8.0\Enteros,500.000.deps.json
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\bin\Debug\net8.0\Enteros,500.000.runtimeconfig.json
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\bin\Debug\net8.0\Enteros,500.000.dll
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\bin\Debug\net8.0\Enteros,500.000.pdb
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\obj\Debug\net8.0\Enteros,500.000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\obj\Debug\net8.0\Enteros,500.000.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\obj\Debug\net8.0\Enteros,500.000.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\obj\Debug\net8.0\Enteros,500.000.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\obj\Debug\net8.0\Enteros,500.000.sourcelink.json
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\obj\Debug\net8.0\Enteros,500.000.dll
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\obj\Debug\net8.0\refint\Enteros,500.000.dll
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\obj\Debug\net8.0\Enteros,500.000.pdb
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\obj\Debug\net8.0\Enteros,500.000.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Enteros,500.000\obj\Debug\net8.0\ref\Enteros,500.000.dll

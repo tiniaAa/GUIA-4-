@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enteros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c4868ffaaebdab76daf86da75d9928cfd557de1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b60ea28f7ba20a1dc115f074d8bd7ddf8a768a3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enteros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enteros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
