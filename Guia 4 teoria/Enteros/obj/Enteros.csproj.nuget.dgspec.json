@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\Guia 4 teoria\\Enteros\\Enteros.csproj": {}
+    "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Enteros\\Enteros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\Guia 4 teoria\\Enteros\\Enteros.csproj": {
+    "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Enteros\\Enteros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\Guia 4 teoria\\Enteros\\Enteros.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Enteros\\Enteros.csproj",
         "projectName": "Enteros",
-        "projectPath": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\Guia 4 teoria\\Enteros\\Enteros.csproj",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Enteros\\Enteros.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\Guia 4 teoria\\Enteros\\obj\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Enteros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
