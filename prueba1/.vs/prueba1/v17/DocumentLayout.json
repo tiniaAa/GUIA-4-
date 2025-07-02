@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\prueba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9906F1FA-FA2B-4BD4-8075-AD07F7C09119}|prueba1\\prueba1.csproj|c:\\users\\franc\\onedrive\\desktop\\facu\\ejercicios-practica-programacion-\\prueba1\\prueba1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9906F1FA-FA2B-4BD4-8075-AD07F7C09119}|prueba1\\prueba1.csproj|solutionrelative:prueba1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9906F1FA-FA2B-4BD4-8075-AD07F7C09119}|prueba1\\prueba1.csproj|C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\prueba1\\prueba1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9906F1FA-FA2B-4BD4-8075-AD07F7C09119}|prueba1\\prueba1.csproj|solutionrelative:prueba1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\prueba1\\prueba1\\Form1.cs",
+              "RelativeDocumentMoniker": "prueba1\\Form1.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\prueba1\\prueba1\\Form1.cs",
+              "RelativeToolTip": "prueba1\\Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwFEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:01:41.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\prueba1\\prueba1\\Form1.cs",
+              "RelativeDocumentMoniker": "prueba1\\Form1.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\prueba1\\prueba1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "prueba1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:01:12.033Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
