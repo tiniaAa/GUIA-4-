@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\bin\Debug\net8.0\1.exe
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\bin\Debug\net8.0\1.deps.json
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\bin\Debug\net8.0\1.runtimeconfig.json
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\bin\Debug\net8.0\1.dll
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\bin\Debug\net8.0\1.pdb
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\obj\Debug\net8.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\obj\Debug\net8.0\1.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\obj\Debug\net8.0\1.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\obj\Debug\net8.0\1.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\obj\Debug\net8.0\1.sourcelink.json
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\obj\Debug\net8.0\1.dll
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\obj\Debug\net8.0\refint\1.dll
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\obj\Debug\net8.0\1.pdb
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\obj\Debug\net8.0\1.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\Guia 4 teoria\1\obj\Debug\net8.0\ref\1.dll
