@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\bin\Debug\net8.0\Strings.exe
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\bin\Debug\net8.0\Strings.deps.json
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\bin\Debug\net8.0\Strings.dll
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\bin\Debug\net8.0\Strings.pdb
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\obj\Debug\net8.0\Strings.sourcelink.json
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\obj\Debug\net8.0\Strings.dll
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\obj\Debug\net8.0\refint\Strings.dll
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\obj\Debug\net8.0\Strings.pdb
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Desktop\facu\ejercicios-practica-programacion-\GUIA-4-\Guia 4 teoria\Strings\obj\Debug\net8.0\ref\Strings.dll

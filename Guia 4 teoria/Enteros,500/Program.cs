@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("PC usada: Ryzen 7, 8GB RAM, Windows 11 64-bit");
             #region Crear numero aleatorios de 32 y 64 
             Random rnd = new Random(12345);
             int cantidad = 5000000;
