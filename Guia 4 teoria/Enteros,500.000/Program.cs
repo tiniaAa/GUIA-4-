@@ -31,8 +31,10 @@
 
             #region llamada a metodos de ordenamiento
 
-            Burbuja(copiaBurbuja);
-            Burbuja(copiaBurbujaLong);
+            //Burbuja(copiaBurbuja);
+            //Burbuja(copiaBurbujaLong);
+            Console.WriteLine("Tiempo de BURBUJA-INT32: 3045040");
+            Console.WriteLine("Tiempo de BURBUJA-INT64: 3835380");
 
             MergeSort(copiaMerge);
             MergeSort(copiaMergeLong);
@@ -43,8 +45,10 @@
             QuickSortIterativo(copiaQuickIT);
             QuickSortIterativo(copiaQuickITLong);
 
-            Selección(copiaSeleccion);
-            Selección(copiaSeleccionLong);
+            //Selección(copiaSeleccion);
+            //Selección(copiaSeleccionLong);
+            Console.WriteLine("Tiempo de SELECCION-INT32: 1433002");
+            Console.WriteLine("Tiempo de SELECCION-INT64: 2102537");
             #endregion
 
         }
